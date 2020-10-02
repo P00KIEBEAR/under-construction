@@ -7,13 +7,14 @@
  h1 {
     display: inline-block;
     font-size: 48px;
+    font-style: italic;
 }
 
 .background {
     height: 400px;
     width: 100%;
     margin-bottom: 100px;
-    background-image: url(".\css\images\construction.jpg");
+    background-image: url(".\assets\css\images\construction.jpg");
     background-size: cover;
     background-position: center;
 }
