@@ -11,10 +11,10 @@
 }
 
 .background {
-    height: 400px;
+    height: 800px;
     width: 100%;
     margin-bottom: 100px;
-    background-image: url(./css/background-image/construction.jpg);
+   background-image: url(../css/images/construction.jpg);
     background-size: cover;
     background-position: center;
 }
